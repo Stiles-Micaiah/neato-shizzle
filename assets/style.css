@@ -1,0 +1,23 @@
+#buttons-ul>ul  {
+  /* float: left; */
+  list-style: none;
+  margin-left: -4rem;
+  margin-top: 4vh;
+
+}
+#buttons-ul>ul>li {
+padding-bottom: 4rem;
+}
+#li-needed {
+margin-top: 2vh;
+}
+#ul-shizzle {
+  align-content: center
+}
+
+#buttons-ul>ul>li>button {
+  width: 15vh;
+}
+#quarter-slitty {
+  width: 18vh;
+}
